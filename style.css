@@ -1,0 +1,44 @@
+.navbar .navbar-link{
+    color:white;
+    text-decoration: none;
+
+   
+    font-weight: bold;
+    font-size: 20px; 
+    line-height: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+   
+   
+
+    
+}
+
+.navbar > ul {
+    list-style-type: none;
+    padding-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+ 
+}
+.navbar  .navbar-option{
+    width: 32.7%;
+    float: right;
+    text-align: center;
+    background-color: black;
+
+    height: 100%;
+    margin-right: 5px;
+
+}
+.navbar{
+    height: 45px
+}
+.navbar > ul{
+
+    height: 100%;
+}
+
